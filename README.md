@@ -1,6 +1,5 @@
-# DesafioDioDynamics365CE
+# Desafio Final DIO Dynamics 365 CE
 
-# Desafio-PowerApps-DIO
 Desafio final do bootcamp Dynamics 365 CE da Digital Innovation One para criação de um aplicativo utilizando Dynamics integrado com o Power Apps, com elaboração do cófigo C# no Visual Studio
 
 ## Explicação detalhada do projeto:
